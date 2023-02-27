@@ -1,7 +1,6 @@
 #include <iostream>
 #include <stdlib.h>
-#include <glut.h>
-
+#include "glut/glut.h"
 #include "Trig.h"
 #include "Input.h"
 #include "Map.h"

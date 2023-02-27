@@ -1,5 +1,5 @@
 #pragma once
-#include <glut.h>
+#include "glut/glut.h"
 #include "Trig.h"
 #include "Vector.h"
 

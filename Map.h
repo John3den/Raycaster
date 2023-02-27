@@ -1,5 +1,5 @@
 #pragma once
-#include <glut.h>
+#include "glut/glut.h"
 #define MAPSIZEX  8      
 #define MAPSIZEY  8      
 #define MAPSIZE 64    

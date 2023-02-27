@@ -4,10 +4,10 @@
 #include "Trig.h"
 #include "Vector.h"
 
-#include <Textures/piercer.ppm>
-#include <Textures/wall1.ppm>
-#include <Textures/floor.ppm>
-#include <Textures/door.ppm>
+#include "Textures/piercer.ppm"
+#include "Textures/wall1.ppm"
+#include "Textures/floor.ppm"
+#include "Textures/door.ppm"
 
 float playerAngle=90;
 Vector2 player, playerDirection;
